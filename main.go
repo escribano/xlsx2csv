@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tealeg/xlsx"
+	"github.com/escribano/xlsx"
 )
 
 var xlsxPath = flag.String("f", "", "Path to an XLSX file")
